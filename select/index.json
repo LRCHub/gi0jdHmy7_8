@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "CLAN QUEEN  \"Tokyo Mood(Saturday Night Remix)\"",
+  "base_artist": "CLAN QUEEN",
+  "createdAt": "2026-01-14T08:03:54.611752Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tokyo Mood",
+      "artist": "CLAN QUEEN",
+      "has_synced": false,
+      "path": "select/pl_01_Tokyo_Mood_CLAN_QUEEN.txt"
+    }
+  ]
+}
